@@ -4,6 +4,10 @@ vehicle number plate detection using custom trained yolov4 algorithm and recogni
 
 ![Project image](demo/temp1.png)
 
+
+
+![Project image](https://drive.google.com/uc?export=view&id=1Cnzoe3Fcmcq6pSOLXbhJLY67m0yo-McZ)
+
 ## necessary files
 
 #### [Python notebook for train yolov4 algorithm to detect Vehicle registration plate.](https://nbviewer.jupyter.org/github/atultyagi612/vehicle-number-plate-detection-and-recognition/blob/main/Train_YOLOv4_Object_Detector_on_custom_data%20%282%29.ipynb)
