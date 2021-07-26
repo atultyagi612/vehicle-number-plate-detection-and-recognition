@@ -2,7 +2,7 @@
 vehicle number plate detection using custom trained yolov4 algorithm and recognition using tesseract and easyocr.
 
 
-![Project image](demo/temp1.png)
+![Project image](End to end/temp1.png)
 
 
 
